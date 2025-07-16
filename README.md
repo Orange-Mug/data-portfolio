@@ -1,6 +1,3 @@
-# data-portfolio
-Personal data analysis portfolio: EDA, cleaning, visualization, and real-world projects.
-
 # Data Portfolio by Nicolas Aponte.
 
 Welcome! This is my personal data analysis portfolio, built as part of my 60-day data analyst career path. Here I document my progress through real-world tasks, exploratory projects, and professional development.
